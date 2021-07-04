@@ -1,0 +1,102 @@
+.top-banner{
+    background-color:#F0FFF0;
+}
+.sign-in-button{
+    background-image: linear-gradient(to bottom, #21B573 0%, #21B573 100%);
+    color: whitesmoke;
+    height: 42px;
+    width: 104px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+    border: none; 
+}
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Poppins', sans-serif;
+}
+.flex{
+    align-items: center;
+}
+.container{
+    margin-bottom: 70px;
+}
+.name-highlight{
+    color: #FD511A;
+}
+.name-bold{
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 70px;
+    font-family: 'Poppins', sans-serif;
+}
+.text-highlight{
+    color:#21B573;
+}
+.lorem{
+    line-height: 45px;
+    color: #6C6B6B;
+}
+.get-started-button{
+    background-image: linear-gradient(to bottom, #21B573 0%, #21B573 100%);
+    color: whitesmoke;
+    border: none;
+    height: 45px;
+    width: 140px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+
+}
+.cardi{
+    background-color: #F8FFFB; 
+}
+.cardo{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.card-text{
+    color: #6C6B6B;
+}
+.different-color{
+    color: #413960;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;    
+}
+.card-title{
+    color: #413960;
+    
+}
+.buy-course-button{
+    background-image: linear-gradient(to bottom, #21B573 0%, #21B573 100%);
+    color: whitesmoke;
+    border: none;
+    height: 35px;
+    width: 120px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+}
+.float-child{
+    float: left;
+    padding: 0px 67px 0px 0px;   
+}
+.half-width img{
+    width: 117px;
+}
+.last-part{
+    height: 369px;
+    background-color: #282531;
+    color: whitesmoke;
+} 
+.bottom-banner{
+    padding: 70px 0px;
+
+}
+.the-end{
+    display: flex;
+    justify-content:center;
+    
+    
+}
+    
+
+
